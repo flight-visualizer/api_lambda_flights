@@ -1,0 +1,3 @@
+requests
+pydantic
+git+https://github.com/flight-visualizer/common_dependencies.git#egg=services
